@@ -10,6 +10,8 @@ List of Supervised Learning Activity:
 	+ contains EDA + Model Development + Stochastic Gradient Descent
 2. [Digit Handwriting Classification](https://github.com/CosmiX-6/Supervised-Machine-Learning-Solved/tree/master/Digit%20Handwriting%20Classification "Goto Digit Classification")
     + contains Model Development + Neural Network + Tensorflow
+3. [Recipe Analysis](https://github.com/CosmiX-6/Supervised-Machine-Learning-Solved/tree/master/Recipes%20Analysis "Goto Recipe Analysis")
+    + contains simple Data Analysis
 
 More work will be added soon and the information will be updated on addition of each new work.
 
