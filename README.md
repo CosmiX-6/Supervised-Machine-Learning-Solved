@@ -12,6 +12,8 @@ List of Supervised Learning Activity:
     + contains Model Development + Neural Network + Tensorflow
 3. [Recipe Analysis](https://github.com/CosmiX-6/Supervised-Machine-Learning-Solved/tree/master/Recipes%20Analysis "Goto Recipe Analysis")
     + contains simple Data Analysis
+4. [Sentiment Analysis](https://github.com/CosmiX-6/Supervised-Machine-Learning-Solved/tree/master/Sentiment%20Analysis "Goto Sentiment Analysis")
+    + contains simple NLP and Dat Modelling
 
 More work will be added soon and the information will be updated on addition of each new work.
 
