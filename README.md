@@ -19,12 +19,12 @@ More work will be added soon and the information will be updated on addition of 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-sharma-01775b14a">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&labelColor=orange&logoColor=white&label=&message=LinkedIn&color=informational&style=plastic" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://discord.com/users/366283102462541865">
-    <img src="https://img.shields.io/static/v1?logo=discord&labelColor=grey&logoColor=white&label=&message=Discord&color=blue&style=plastic" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/CosmiX-6">
-    <img src="https://img.shields.io/static/v1?logo=github&labelColor=green&logoColor=black&label=&message=GitHub&color=black&style=plastic" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
