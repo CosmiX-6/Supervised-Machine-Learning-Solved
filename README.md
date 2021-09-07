@@ -14,6 +14,8 @@ List of Supervised Learning Activity:
     + contains simple Data Analysis
 4. [Sentiment Analysis](https://github.com/CosmiX-6/Supervised-Machine-Learning-Solved/tree/master/Sentiment%20Analysis "Goto Sentiment Analysis")
     + contains simple NLP and Data Modelling
+5. [Digit Handwriting Classification KNN](https://github.com/CosmiX-6/Supervised-Machine-Learning-Solved/tree/master/Digit%20Handwriting%20Classification%20(KNN) "Goto Sentiment Analysis")
+    + contains Digit Recognition using KNN
 
 More work will be added soon and the information will be updated on addition of each new work.
 
